@@ -45,7 +45,7 @@ monthly_by_brand.to_csv("monthly_by_brand.csv", index=False)
 monthly_by_segment.to_csv("monthly_by_segment.csv", index=False)
 
 from sqlalchemy import create_engine
-engine = create_engine('mysql+pymysql://root:thousand@localhost/auto_market_analysis')
+engine = create_engine('mysql+pymysql://root:password@localhost/auto_market_analysis')
 df_long.to_sql('brand_model', engine, if_exists='replace', index=False)
 monthly_by_brand.to_sql('sales_by_brand', engine, if_exists='replace', index=False)
 monthly_by_segment.to_sql('sales_by_segment', engine, if_exists='replace', index=False)
