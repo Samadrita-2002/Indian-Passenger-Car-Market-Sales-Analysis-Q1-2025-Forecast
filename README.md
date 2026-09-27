@@ -318,23 +318,12 @@ A stronger forecasting model could incorporate:
 ---
 
 ## Dashboard
-[Dashboard](screenshots/Dashboard.png)
+[Dashboard](https://github.com/Samadrita-2002/Indian-Passenger-Car-Market-Sales-Analysis-Q1-2025-Forecast/blob/main/Dashboard.png)
 
 ## Files
-- `notebooks/FP&A_analysis_forecast.py` — budget construction, forecasting
-- `excel/Sample - Superstore_transformed.csv` — cleaned dataset
-- `excel/budget_vs_actuals.csv` — budget_vs_actuals table
-- `excel/Forecast_Sales.csv` — Forecast table
-- `sql/fpa_analysis_queries.sql` — analysis queries
-- `excel/sql query results_and pivot table_forecast.xlxs` — queries outputs and pivot table combined
-- `dashboard/FP&A Variance and Forecast Dashboard.pdf` — Power BI file
-
-## Dashboard
-[Dashboard](https://github.com/Samadrita-2002/Credit_Risk_Analysis/blob/main/dashboard.png)
-
-## Files
-- [cleaned dataset](https://github.com/Samadrita-2002/Credit_Risk_Analysis/blob/main/cleaned_credit_risk.csv)
-- [Python:cleaning and feature engineering](https://github.com/Samadrita-2002/Credit_Risk_Analysis/blob/main/credit_risk_analysis.py)
-- [SQL: analysis queries](https://github.com/Samadrita-2002/Credit_Risk_Analysis/blob/main/Credit_risk_queries.sql)
-- [Queries outputs and pivot table](https://github.com/Samadrita-2002/Credit_Risk_Analysis/blob/main/sql_query%20results_and%20pivot%20table.xlsx)
-- [Power BI file](https://github.com/Samadrita-2002/Credit_Risk_Analysis/blob/main/Credit%20Risk%20Analysis%20Dashboard.pdf)
+- [Forecasts](https://github.com/Samadrita-2002/Indian-Passenger-Car-Market-Sales-Analysis-Q1-2025-Forecast/blob/main/forecasts.csv)
+- [Brand forecasts](https://github.com/Samadrita-2002/Indian-Passenger-Car-Market-Sales-Analysis-Q1-2025-Forecast/blob/main/brand_forecasts.csv)
+- [Python:cleaning and Linear Regression and Polynomial trend forecasting](https://github.com/Samadrita-2002/Indian-Passenger-Car-Market-Sales-Analysis-Q1-2025-Forecast/blob/main/car_sales_trend_analysis.py)
+- [SQL: analysis queries](https://github.com/Samadrita-2002/Indian-Passenger-Car-Market-Sales-Analysis-Q1-2025-Forecast/blob/main/auto_market_analysis.sql)
+- [Queries outputs and pivot table](https://github.com/Samadrita-2002/Indian-Passenger-Car-Market-Sales-Analysis-Q1-2025-Forecast/blob/main/SQL%20query%20results%20and%20pivot%20table.xlsx)
+- [Power BI Dashboard](https://github.com/Samadrita-2002/Indian-Passenger-Car-Market-Sales-Analysis-Q1-2025-Forecast/blob/main/Indian_Auto_Market_Analysis%20Dashboard.pdf)
